@@ -12,9 +12,13 @@ vim newfile.txt
 git add .
 
 git commit -m "the massage"
+
 just first time: git remote add origin http://github/fchgithub/myrepository.git 
+
 git push //-u origin master
 
 git status
+
 git log
+
 ls
