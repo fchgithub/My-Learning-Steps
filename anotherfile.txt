@@ -1,1 +1,8 @@
-hi hi the old one didn't added
+To Do:  (2015-Oct-26)
+
+- Download git desktop (all setting)
+- Add two folders: spark, python, others 
+- Add mapReduce files 
+- Complete git commands in the text file
+
+
