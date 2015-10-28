@@ -1,0 +1,21 @@
+Commands for using github:
+*********vim-commands**********
+vim readme.md   (open file)
+i  : insert mode 
+esc: quit insert mode 
+:q : quit without saving
+:x : quit with saving
+**********Create-new-file**********
+touch newfile.txt
+vim newfile.txt
+***********git-add-update***********
+git add .
+git commit -m "the massage"
+(just first time:) git remote add origin http://github/fchgithub/myrepository.git 
+git push [-u origin master]
+git status
+git log
+ls
+**********git-delete********
+git rm file.txt  (removes the file from the repo but also deletes it from the local file system.)
+git rm --cached file.txt (remove the file from the repo and not delete it from the local file system)
