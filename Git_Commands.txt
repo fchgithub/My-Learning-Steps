@@ -8,6 +8,8 @@ esc: quit insert mode
 **********Create-new-file**********
 touch newfile.txt
 vim newfile.txt
+********update_local-repo**********
+git pull origin master
 ***********git-add-update***********
 git add .
 git commit -m "the massage"
