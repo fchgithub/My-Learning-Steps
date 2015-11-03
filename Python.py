@@ -23,3 +23,11 @@ for c in capital_country:
     print('The {:10d} and {:3s}'.format(234131324, 'sdsds') )
 
 
+
+for i in range(995, 1010):
+    # allign from the right
+    print('This is a test: %10d' %i)  # print('This is a test: {:>10}'.format(i))
+    # allign form the left
+    print('This is a test: %-10d' %i) # print('This is a test: {:10}'.format(i)
+    # allign in the middle
+    print('This is a test: {:^10}'.format(i)
