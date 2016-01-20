@@ -21,3 +21,8 @@ ls
 **********git-delete********
 git rm file.txt  (removes the file from the repo but also deletes it from the local file system.)
 git rm --cached file.txt (remove the file from the repo and not delete it from the local file system)
+
+********current-Directory******
+pwd
+*******List-all*******
+ls
