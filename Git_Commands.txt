@@ -26,3 +26,6 @@ git rm --cached file.txt (remove the file from the repo and not delete it from t
 pwd
 *******List-all*******
 ls
+
+********move-linix********
+sudo mv /frompath /topath
