@@ -27,5 +27,12 @@ pwd
 *******List-all*******
 ls
 
+
+Eclipse shortcuts:
+**********
+Ctrl + /: comment
+Ctrl + \: uncomment
+
+
 ********move-linix********
 sudo mv /frompath /topath
