@@ -32,7 +32,7 @@ Eclipse shortcuts:
 **********
 Ctrl + /: comment
 Ctrl + \: uncomment
-
+F3: jump into the function declaration
 
 ********move-linix********
 sudo mv /frompath /topath
