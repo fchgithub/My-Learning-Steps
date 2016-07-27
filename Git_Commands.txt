@@ -36,3 +36,7 @@ F3: jump into the function declaration
 
 ********move-linix********
 sudo mv /frompath /topath
+
+*****make-a-JAR-file****
+jar cfv Project1.jar *
+# we should be inside the folder Project1 to make jar file (Project1.jar is inside Project1 folder)
