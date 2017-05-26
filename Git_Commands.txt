@@ -22,6 +22,11 @@ ls
 git rm file.txt  (removes the file from the repo but also deletes it from the local file system.)
 git rm --cached file.txt (remove the file from the repo and not delete it from the local file system)
 
+**********git-pull just one folder**********
+$ git fetch
+$ git checkout @{u} -- myfolder   (the one you want to pull)
+
+
 ********current-Directory******
 pwd
 *******List-all*******
