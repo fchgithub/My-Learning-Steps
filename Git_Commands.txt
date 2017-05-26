@@ -26,6 +26,8 @@ git rm --cached file.txt (remove the file from the repo and not delete it from t
 $ git fetch
 $ git checkout @{u} -- myfolder   (the one you want to pull)
 
+**********git-forced push**********
+git push -f
 
 ********current-Directory******
 pwd
